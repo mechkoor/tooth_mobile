@@ -15,6 +15,7 @@ Bienvenue dans notre projet ! Pour faciliter l'accès à la vidéo en raison de 
 lien MEGA: https://mega.nz/file/MetDgQDS#wlnc8SrHwyXoFZy3fD-KTqBlQDyzJsp4nMUbsV96Ljc
 
 
- **Note importante sur l'adresse IP de l'application mobile** :Pour changer l'adresse veuillez entrer dans le pckage apiconfig et la chnager ainsi vous devez changer l'adresse de security-config-properties dans src->values
+ **Note importante sur l'adresse IP de l'application mobile** :Pour changer l'adresse IP veuillez entrer dans le package config at la chnager depuis la classe apiconfig ainsi vous devez changer l'adresse IP dans 
+ res--> xml--> network_security_config
 
 
